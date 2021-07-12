@@ -309,6 +309,7 @@ display:inline-block;
 }
 #cta .col{
     margin-top: 0px;
+        justify-content: space-between;
 }
 .cta-heading{
     font-size: 6rem;
